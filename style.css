@@ -7,6 +7,6 @@ body {
   background: linear-gradient(0deg, rgba(0,59,215,1) 0%, rgba(0,185,255,1) 100%);
 }
 
-ipfp {
+.ipfp {
   border-radius: 50%;
 }
