@@ -12,9 +12,11 @@ body {
 }
 
 .ilg {
-  left-margin: 5px;
+  margin-left: 15px;
 }
 
 .comblogo {
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
